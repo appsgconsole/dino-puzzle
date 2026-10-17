@@ -1,6 +1,361 @@
 {
  "version": 1,
- "images": [],
+ "images": [
+  {
+   "id": "achillobator",
+   "name": "Achillobator",
+   "tier": "paid",
+   "w": 1672,
+   "h": 941,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoNeolitic",
+    "license": "CC BY 4.0",
+    "title": "Achillobator reconstruction.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=79745344"
+   },
+   "sha": "1b2f70a94037da332a2b12030eef5e967e7c38b15b506520558c004e60f50f58",
+   "tsha": "30fe2c52f613a75fe7e111aa8d1129ea96bcb54aef15ac3f543ea0f2ba1e5dde"
+  },
+  {
+   "id": "aerosteon",
+   "name": "Aerosteon",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Nobu Tamura",
+    "license": "CC BY 3.0",
+    "title": "Aerosteon BW.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=6327862"
+   },
+   "sha": "37360933065f1e2bab218d55d2750ee21c2af4d249cda2f7aadc918dbd66ca4c",
+   "tsha": "4725eedf3bd31a1b1b1de26f627a300442906be74ddfc2b7230dbcd64ed61bfe"
+  },
+  {
+   "id": "afrovenator",
+   "name": "Afrovenator",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoEquii",
+    "license": "CC BY-SA 4.0",
+    "title": "Afrovenator reconstruction.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=74814045",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "4fa5e38bcaf9bae5117de445cfa7b084c379608a8b784cc7e135be8833281564",
+   "tsha": "19685533eb147f3bc95b6a44f7afa06a98aa445515bcd0f9c9524cec4c3ce66c"
+  },
+  {
+   "id": "alvarezsaurus",
+   "name": "Alvarezsaurus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Karkemish",
+    "license": "CC BY 3.0",
+    "title": "Alvarezsaurus calvoi.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=7638853"
+   },
+   "sha": "f91270592aefa6e27d0f0c5b90b44f7d2f230d7b7942580cbdd3a04d7c066040",
+   "tsha": "3ce0de7199e857fdd2ab0796745e9bb9a53e54c45bd6e69413072b2a9a9bde5a"
+  },
+  {
+   "id": "anzu",
+   "name": "Anzu wyliei",
+   "tier": "paid",
+   "w": 1448,
+   "h": 1086,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Fred Wierum",
+    "license": "CC BY-SA 4.0",
+    "title": "Anzu wyliei.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=49448119",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "08c1cc44df6b1dd118aabe9ef709a63b0a7809fd376004ec55528ac799ee9d00",
+   "tsha": "c633b690074cb781b38cbe6693f135c757732becaef6f55a9a63c8d929a91849"
+  },
+  {
+   "id": "aorun",
+   "name": "Aorun",
+   "tier": "paid",
+   "w": 1374,
+   "h": 1145,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "J-H. Jang",
+    "license": "CC BY-SA 4.0",
+    "title": "Aorun.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=148100054",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "8ee024d5b2352344c143831fe1950f1aba480a8f272b28dea505200a64a2f2f1",
+   "tsha": "acdc0b14c8c80f8858bf82d758001fc5fb777c6f39d3f749271bd9c6cc92fe87"
+  },
+  {
+   "id": "archaeornithomimus",
+   "name": "Archaeornithomimus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Audrey.m.horn",
+    "license": "CC BY-SA 4.0",
+    "title": "Archaeornithomimus.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=77420428",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "5d41bd4bf8f4d573613382cfcfb3147b00aa623e47b5e69007c32883efbfb7e4",
+   "tsha": "b276d7280ed321855eee67aaadce536b8edddc6fbd8fb68e3656546c71dc5a83"
+  },
+  {
+   "id": "asfaltovenator",
+   "name": "Asfaltovenator vialidadi",
+   "tier": "paid",
+   "w": 1606,
+   "h": 979,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "GusTrex",
+    "license": "CC BY-SA 4.0",
+    "title": "Asfaltovenator vialidadi.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=86362596",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "07f4badbcbe971f72eceb87fa18eee776aa25c0af82be9eac09fd6a8ecc0b425",
+   "tsha": "a86b32212ede5d58425472117ca37d6c40a86b8099817be8609f33477dbc5e97"
+  },
+  {
+   "id": "atrociraptor",
+   "name": "Atrociraptor",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "FunkMonk",
+    "license": "CC BY-SA 3.0",
+    "title": "Atrociraptor.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=29118538",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "8ad94d2b5d2eacede37621163b627ef53ce358d718b826e21b56413c35cffeed",
+   "tsha": "cd8b78477768a8aad3631c913722588c10f15c41963e2f0b5b776edb2e522b53"
+  },
+  {
+   "id": "aurornis",
+   "name": "Aurornis",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "El fosilmaníaco",
+    "license": "CC BY-SA 3.0",
+    "title": "Aurornis.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=26637987",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "d31a3aa86be35b0ad002521bd3b4b6016608ea383eb74a0ed9598d2c34fa47c0",
+   "tsha": "e6e32d42ab2f5a6691467bc0caa521f9192fc489707d39c9049b3dfa11eb9aef"
+  },
+  {
+   "id": "bambiraptor",
+   "name": "Bambiraptor",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoEquii",
+    "license": "CC BY-SA 4.0",
+    "title": "Bambiraptor reconstruction.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=78923839",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "c4c9f1f1133b48aa5c67fd69620cf27cfed8e686be9dd05b409b190ee0a04d1c",
+   "tsha": "821994af05b31fe9ddf38dfc061b16382f214ed0c66327394d41068b4c262aef"
+  },
+  {
+   "id": "garudimimus",
+   "name": "Garudimimus",
+   "tier": "paid",
+   "w": 1672,
+   "h": 941,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoNeolitic",
+    "license": "CC BY 4.0",
+    "title": "Garudimimus Restoration.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=93777894"
+   },
+   "sha": "a884c72467c5739a8782c59bc5f5b281445d87c9a5dd38512b5ee2f8deac50c1",
+   "tsha": "22226861faf2b59f558e8a3b401b627e813d6ac8f557deeda230bcf05488a274"
+  },
+  {
+   "id": "eosinopteryx",
+   "name": "Eosinopteryx",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "El fosilmaníaco",
+    "license": "CC BY-SA 3.0",
+    "title": "Eosinopteryx.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=26637986",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "fb26fcf6c6aebf03167dcd4ac7798bab0aaa6166c7618ae9de8812d80682371c",
+   "tsha": "39d09ae3415cb15b0c34c1d3485dc388dec9aba86896df4a4cb16f4ba186348b"
+  },
+  {
+   "id": "bonapartenykus",
+   "name": "Bonapartenykus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Abel G. Montes",
+    "license": "CC BY 4.0",
+    "title": "Bonapartenykus (life restoration).png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=158824717"
+   },
+   "sha": "e9c7a9cfac381a18b190569dd23a7743678c566a16b06d52a0cd93dc4400d7d0",
+   "tsha": "384de9881cc1dbf7750dc1995e3ce33e95505621d9be2c4877a563893df25f4b"
+  },
+  {
+   "id": "caihong",
+   "name": "Caihong",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Lucas-Attwell",
+    "license": "CC BY-SA 4.0",
+    "title": "Caihong juji life restoration 3.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=99543438",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "1170f39eb3244fec31b4c66ef3b64b65c14d3c0bd9dc1fe8a9faee857dcb1637",
+   "tsha": "7d11ae8cb8c6792cb73d40d6d425c8a97a1164881fc22a70b60fabf67342cf42"
+  },
+  {
+   "id": "ceratosuchops",
+   "name": "Ceratosuchops",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Connor Ashbridge",
+    "license": "CC BY-SA 4.0",
+    "title": "Life reconstruction of Ceratosuchops inferodios.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=130052139",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "7e70d9c8c71493a3e16d9dbdad34214a2826f57314af03ac8614ba3bbd4f281e",
+   "tsha": "732e56ef8d23d457b003fe29e175f45458752bca2a6bde6539dfbae5716424c1"
+  },
+  {
+   "id": "cristatusaurus",
+   "name": "Cristatusaurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoGeekSquared",
+    "license": "CC BY-SA 4.0",
+    "title": "Cristatusaurus lapparenti by PaleoGeek.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=114762233",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "8f6f021be35ae8aae7e9bea6107a73db7af6134fedf304ab6f37a85a0c1294f6",
+   "tsha": "d19b7f46f6ee53ce1be4c059ef77093ac617a09f265f2347ff9b49e543afa229"
+  },
+  {
+   "id": "daurlong",
+   "name": "Daurlong",
+   "tier": "paid",
+   "w": 1619,
+   "h": 971,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Ivan Iofrida",
+    "license": "CC BY-SA 4.0",
+    "title": "Daurlong paleoart.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=125769787",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "82eece55404820a5522a93f51506bdd7ac40bf44511c157027c5eac8c57c059a",
+   "tsha": "ffd327ac78779dcfd51ec6fdc72f2d17730f27098e00733ce32d46d400998837"
+  },
+  {
+   "id": "deinocheirus",
+   "name": "Deinocheirus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "FunkMonk",
+    "license": "CC BY-SA 3.0",
+    "title": "Hypothetical Deinocheirus.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=5163874",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "d946017af34d6a8632bd8f5b0bceb8046ba1caf2d3b62264041f737d356d8e7d",
+   "tsha": "331a8ff7bbb4519040c314bc9ac69da082c33293c70c2708dfc2bbbfad65e503"
+  },
+  {
+   "id": "dineobellator",
+   "name": "Dineobellator",
+   "tier": "paid",
+   "w": 1664,
+   "h": 945,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Sergey Krasovskiy",
+    "license": "CC BY 4.0",
+    "title": "Dineobellator Sergey Krasovskiy.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=88640982"
+   },
+   "sha": "38e917878495e45bb81cfead72ead8acfe50d9f73d0ebfcb2888424183677b75",
+   "tsha": "7c8ee2d98b61655ffb7dd1be960cec6ba728826c36fb96139fc8a385393b1cac"
+  }
+ ],
  "tiers": {
   "abelisaurus": "free140",
   "acrocanthosaurus": "free140",
