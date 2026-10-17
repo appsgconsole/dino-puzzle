@@ -354,6 +354,236 @@
    },
    "sha": "38e917878495e45bb81cfead72ead8acfe50d9f73d0ebfcb2888424183677b75",
    "tsha": "7c8ee2d98b61655ffb7dd1be960cec6ba728826c36fb96139fc8a385393b1cac"
+  },
+  {
+   "id": "adasaurus",
+   "name": "Adasaurus",
+   "tier": "paid",
+   "w": 1672,
+   "h": 941,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoNeolitic",
+    "license": "CC BY-SA 4.0",
+    "title": "Adasaurus Restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=88946851",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "2d506d8f05e9bc25ae7c6b680f000705e9c77c9577809987adb92461ba80c2bd",
+   "tsha": "63dcd85646da99e6882ba0143fb53424a46857c553d27c730cab2c114e6a32ee"
+  },
+  {
+   "id": "haplocheirus",
+   "name": "Haplocheirus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Conty",
+    "license": "CC BY 3.0",
+    "title": "Haplocherius sollers TIV 400.JPG",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=9958089"
+   },
+   "sha": "f0638344985112a8f137fc7c1355555d6f8dea257dbe92990bc85bed1f17ac3e",
+   "tsha": "c77eb8c742341c1fceb8a40b1382ed48bc55b0d710f44965985526c00dc55b29"
+  },
+  {
+   "id": "harpymimus",
+   "name": "Harpymimus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Steveoc 86",
+    "license": "CC BY 2.5",
+    "title": "Harpymimus steveoc.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=4259558"
+   },
+   "sha": "c573779e16d9d34ffcbfae7da307099e3c44f56ea1c98ac6e849c146026d8086",
+   "tsha": "f20dcdb1b3c4685a1dfb6eaa7d18a3bb6a0ac641f9b1a9ad3ed9f897fdf115ee"
+  },
+  {
+   "id": "hulsanpes",
+   "name": "Hulsanpes",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Sauriazoicillus",
+    "license": "CC BY-SA 4.0",
+    "title": "Hulspanes.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=108382823",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "9c35d30c6ea8a21720a9e6de084ae16b238e2bed97ab135d614f0975a63df4f6",
+   "tsha": "5eb54ee2c8585e7fa60ebf905fb15a1dc0c97718581e64d6fde144dd857440ef"
+  },
+  {
+   "id": "jianchangosaurus",
+   "name": "Jianchangosaurus",
+   "tier": "paid",
+   "w": 1648,
+   "h": 954,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "PaleoNeolitic",
+    "license": "CC BY 4.0",
+    "title": "Jianchangosaurus Restoration.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=96189752"
+   },
+   "sha": "d83f48356828def5930b486b8b8c9bd384b9e1278022a1bfff549ff73a0c3397",
+   "tsha": "ba9f2c360e0cc7c86957fefac25553c7b12c477340f19663cf905fa12874cab5"
+  },
+  {
+   "id": "jiangxisaurus",
+   "name": "Jiangxisaurus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Danny Cicchetti",
+    "license": "CC BY-SA 3.0",
+    "title": "Jiangxisaurus.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=28197741",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "e22eff3d2d90fa3699e6b2bb6924425735ca75c0432a3388a810c24bfde594e0",
+   "tsha": "fb0e99900f6ec75b22ff7108400379510d8ff7a54ac32a822a9b49d07b7b0f98"
+  },
+  {
+   "id": "khaan",
+   "name": "Khaan",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Matt Martyniuk, Jaime A. Headden",
+    "license": "CC BY 2.5",
+    "title": "Khaan mckennai profile1.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=1061010"
+   },
+   "sha": "205a3553b32c0e99043d4e145a5f5a8d8607d72020a463a3132c449bd60191e2",
+   "tsha": "13c1a52eee67f7a470b6ba5ad54c4d6df54153e08478f026c460448cfa2228f2"
+  },
+  {
+   "id": "linhenykus",
+   "name": "Linhenykus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Nobu Tamura",
+    "license": "CC BY-SA 3.0",
+    "title": "Linhenykus NT.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=19459768",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "f2f8ce32b97a006436747ccf04164e582b7ae1c5479a6f9aef849df41068a171",
+   "tsha": "1ba63d50d29873d57c703e09433fca9b68e0070b526e20a58886b2df3657b6c1"
+  },
+  {
+   "id": "machairasaurus",
+   "name": "Machairasaurus",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Danny Cicchetti",
+    "license": "CC BY-SA 3.0",
+    "title": "Machairasaurus.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=29223968",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "9006b1a9d2c0d541a7fa1cb0a9dfa9fc539b890030a1a847ef2b0ea3b939ab84",
+   "tsha": "7432d37a85bf71fddc7ecefa7a1f909bf3babf23c176dde0d9f47158ffd24126"
+  },
+  {
+   "id": "maip",
+   "name": "Maip",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "SpinoDragon145",
+    "license": "CC BY-SA 4.0",
+    "title": "Maip macrothorax reconstruction.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=127689384",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "5957ddc8a8bf559d7a1e08d6d3954beb1c62ae62b2343f0d9002a5d6fefb23cc",
+   "tsha": "8ad622f3d91c16b0e597495bde361dcf9d29f33c97cb46cb65debb3e1fbd3dc4"
+  },
+  {
+   "id": "masiakasaurus",
+   "name": "Masiakasaurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Levi Martinez-Reza",
+    "license": "CC BY-SA 4.0",
+    "title": "Masiakasaurus LMR.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=157392691",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "ab31a840974c2bee03e3c68da83ac428977b3d930c4985a8759026499a1d6d8c",
+   "tsha": "aaa1dd4bd4465e722af10eae510aeb043e5d330249367d8da2c762a9199d6153"
+  },
+  {
+   "id": "meilong",
+   "name": "Meilong",
+   "tier": "paid",
+   "w": 1254,
+   "h": 1254,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Matt Martyniuk",
+    "license": "CC BY-SA 3.0",
+    "title": "Meilong mmartyniuk wiki.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=9570349",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "d342a526c4a52fac5e179dc0fcf8c20eedb886d31c81f21c0565b3bc37ae340f",
+   "tsha": "5a21f2e6c22c0a6fff95e104afa9aff3d5817f0ccb11540d8a9a08c9be180565"
+  },
+  {
+   "id": "nankangia",
+   "name": "Nankangia",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-10-17",
+   "credit": {
+    "kind": "illustration",
+    "author": "Danny Cicchetti",
+    "license": "CC BY-SA 3.0",
+    "title": "Nankangia Restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=29910211",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "7fc26e7aeebe952356ed5a78772bebf3a3af1a8c4e9b7d0a241b360ffe4d3b03",
+   "tsha": "56dbe1036c1ee68961c05d8c76d2bc364abf31e85f00feef816f4feda80bf044"
   }
  ],
  "tiers": {
