@@ -636,7 +636,11 @@
     "zh_Hant": "Vectiraptor 結伴",
     "ar": "ثنائي Vectiraptor",
     "hi": "Vectiraptor की जोड़ी",
-    "th": "Vectiraptor สองตัว"
+    "th": "Vectiraptor สองตัว",
+    "bn": "দুটি Vectiraptor",
+    "ur": "دو Vectiraptor",
+    "ms": "Dua ekor Vectiraptor",
+    "fil": "Dalawang Vectiraptor"
    },
    "sha": "dd423e917a9f0bed9be1b59ecf0246f6f518511e1197e524c9a3ed34febae6cf",
    "tsha": "626abd743ecb1c2bbbf793dfa7386cb4477ff0094f19e65c634e4032e2f34360"
@@ -694,7 +698,11 @@
     "zh_Hant": "Velocisaurus 與幼崽",
     "ar": "Velocisaurus مع صغاره",
     "hi": "Velocisaurus और उसके बच्चे",
-    "th": "Velocisaurus กับลูก ๆ"
+    "th": "Velocisaurus กับลูก ๆ",
+    "bn": "Velocisaurus ও তার ছানারা",
+    "ur": "Velocisaurus اپنے بچوں کے ساتھ",
+    "ms": "Velocisaurus bersama anak-anaknya",
+    "fil": "Velocisaurus kasama ang mga anak"
    },
    "sha": "f85ab887c716890158a51c197852e208302aae6acdb026b99f20e943c0d19ef2",
    "tsha": "f48332e6fccd5a3338c6c51a3191466ee0a1ee9bc373f97a0bc5b97389533633"
@@ -752,7 +760,11 @@
     "zh_Hant": "Xixiasaurus 守巢",
     "ar": "Xixiasaurus عند العش",
     "hi": "Xixiasaurus घोंसले पर",
-    "th": "Xixiasaurus ที่รัง"
+    "th": "Xixiasaurus ที่รัง",
+    "bn": "বাসায় Xixiasaurus",
+    "ur": "گھونسلے پر Xixiasaurus",
+    "ms": "Xixiasaurus di sarang",
+    "fil": "Xixiasaurus sa pugad"
    },
    "sha": "0c5f38b641ae1c1fd835066e30c15e2de3ba5431229803e356a92ab4f3535653",
    "tsha": "7e2c8caca70b277f6976001a9d287623b2c9af3edb2b284b0ffb23c9feb8a082"
@@ -792,7 +804,11 @@
     "zh_Hant": "Xixiasaurus 一對",
     "ar": "زوجان من Xixiasaurus",
     "hi": "Xixiasaurus का जोड़ा",
-    "th": "Xixiasaurus คู่หนึ่ง"
+    "th": "Xixiasaurus คู่หนึ่ง",
+    "bn": "এক জোড়া Xixiasaurus",
+    "ur": "Xixiasaurus کا جوڑا",
+    "ms": "Sepasang Xixiasaurus",
+    "fil": "Magkapares na Xixiasaurus"
    },
    "sha": "53d6c782266ea2da602c754426b237a8d4038a15c1f2de54cdd5ab7ddf29109e",
    "tsha": "5389ec008bc69ae92730d850788f15c4fc328f3ebe65eed7e438e325773f8009"
@@ -886,7 +902,11 @@
     "zh_Hant": "Philovenator 與幼崽",
     "ar": "Philovenator مع صغاره",
     "hi": "Philovenator और उसके बच्चे",
-    "th": "Philovenator กับลูก ๆ"
+    "th": "Philovenator กับลูก ๆ",
+    "bn": "Philovenator ও তার ছানারা",
+    "ur": "Philovenator اپنے بچوں کے ساتھ",
+    "ms": "Philovenator bersama anak-anaknya",
+    "fil": "Philovenator kasama ang mga anak"
    },
    "sha": "cc348132f8bab3fc32638b78a2623844d1cda0cce824799997f9dd94220bfe29",
    "tsha": "1d13663437510d0ece62f34ac90f45eab3628f32fa98e865820a9b693e575447"
@@ -962,7 +982,11 @@
     "zh_Hant": "Shuvuuia 群",
     "ar": "سرب من Shuvuuia",
     "hi": "Shuvuuia का झुंड",
-    "th": "ฝูง Shuvuuia"
+    "th": "ฝูง Shuvuuia",
+    "bn": "Shuvuuia-এর দল",
+    "ur": "Shuvuuia کا جھنڈ",
+    "ms": "Sekawan Shuvuuia",
+    "fil": "Kawan ng Shuvuuia"
    },
    "sha": "316c0bfb2e38fab22c7813b358ae5b504cd7c2b63566634eda637a3f0c7c7f19",
    "tsha": "1102c08363dc65d02899a1e7f60688725f32d7f16f2e982a42c6c82e37aff2fc"
@@ -1020,7 +1044,11 @@
     "zh_Hant": "Sinovenator 狩獵",
     "ar": "Sinovenator يصطاد",
     "hi": "Sinovenator शिकार पर",
-    "th": "Sinovenator กำลังล่าเหยื่อ"
+    "th": "Sinovenator กำลังล่าเหยื่อ",
+    "bn": "শিকারে Sinovenator",
+    "ur": "شکار کرتا Sinovenator",
+    "ms": "Sinovenator sedang memburu",
+    "fil": "Sinovenator na nangangaso"
    },
    "sha": "e03159790acdff0ef387147960b461ec9ea4843e7847905003a4a657b516f4e6",
    "tsha": "5b7b3504740bf802e6bc46739a6a6f5cd63c3ab560b57f0bf11474e67e4f6df5"
@@ -1112,7 +1140,11 @@
     "zh_Hant": "Tanycolagreus 一家",
     "ar": "عائلة Tanycolagreus",
     "hi": "Tanycolagreus का परिवार",
-    "th": "ครอบครัว Tanycolagreus"
+    "th": "ครอบครัว Tanycolagreus",
+    "bn": "Tanycolagreus-এর পরিবার",
+    "ur": "Tanycolagreus کا خاندان",
+    "ms": "Keluarga Tanycolagreus",
+    "fil": "Pamilya ng Tanycolagreus"
    },
    "sha": "7dbb4542eeea6eb0fb7af026bda26ce95d09cbd4aea785590158c681f92a8f3a",
    "tsha": "3937e2c00255f8a3894187d442e02630ae1cd057b74cfed8280ef277641e39d4"
@@ -1170,7 +1202,11 @@
     "zh_Hant": "Tianyuraptor 一對",
     "ar": "زوجان من Tianyuraptor",
     "hi": "Tianyuraptor का जोड़ा",
-    "th": "Tianyuraptor คู่หนึ่ง"
+    "th": "Tianyuraptor คู่หนึ่ง",
+    "bn": "এক জোড়া Tianyuraptor",
+    "ur": "Tianyuraptor کا جوڑا",
+    "ms": "Sepasang Tianyuraptor",
+    "fil": "Magkapares na Tianyuraptor"
    },
    "sha": "be2ae6837a8261fb46796f70b682867c6ab98c324999061791862878e92cf856",
    "tsha": "479fd9326e15a5a7106f823735ee0b9c46962616774f0dc0ea8257d53680faea"
@@ -1228,7 +1264,11 @@
     "zh_Hant": "Trinisaura 爭鬥",
     "ar": "Trinisaura في عراك",
     "hi": "Trinisaura की लड़ाई",
-    "th": "Trinisaura กำลังต่อสู้"
+    "th": "Trinisaura กำลังต่อสู้",
+    "bn": "Trinisaura-এর লড়াই",
+    "ur": "Trinisaura کی لڑائی",
+    "ms": "Trinisaura bertarung",
+    "fil": "Labanan ng Trinisaura"
    },
    "sha": "3f2fffcaf1ad75c84ee4f187ed12167147c59a848b37ac4ec89f7c33c194913c",
    "tsha": "7f8083bbf3cb627db9a342cead622160bbc4eaccfb8601226ed5e048b5a5ae8d"
@@ -1286,7 +1326,11 @@
     "zh_Hant": "Nqwebasaurus 一家",
     "ar": "عائلة Nqwebasaurus",
     "hi": "Nqwebasaurus का परिवार",
-    "th": "ครอบครัว Nqwebasaurus"
+    "th": "ครอบครัว Nqwebasaurus",
+    "bn": "Nqwebasaurus-এর পরিবার",
+    "ur": "Nqwebasaurus کا خاندان",
+    "ms": "Keluarga Nqwebasaurus",
+    "fil": "Pamilya ng Nqwebasaurus"
    },
    "sha": "65e07a71aba3b60e84c5ba570383ca11644ec30c36adf2f5a5f241e9a13c4af5",
    "tsha": "e2b98c3532d424b39db1eb0bb060f0c39123cdda813628dc0fa4863d7bff1261"
