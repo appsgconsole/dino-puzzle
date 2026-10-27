@@ -5,7 +5,7 @@
    "id": "achillobator",
    "name": "Achillobator",
    "tier": "paid",
-   "w": 1672,
+   "w": 1411,
    "h": 941,
    "added": "2026-10-17",
    "credit": {
@@ -15,8 +15,8 @@
     "title": "Achillobator reconstruction.png",
     "url": "https://commons.wikimedia.org/w/index.php?curid=79745344"
    },
-   "sha": "1b2f70a94037da332a2b12030eef5e967e7c38b15b506520558c004e60f50f58",
-   "tsha": "30fe2c52f613a75fe7e111aa8d1129ea96bcb54aef15ac3f543ea0f2ba1e5dde"
+   "sha": "e967248e6970ad119b6b044a9aee851b6d52ca064ae575381b9ee39e38c2b39b",
+   "tsha": "d752775339791311763213ecab23ada05a8a644d1d27cd923e0185404a143ac5"
   },
   {
    "id": "aerosteon",
@@ -58,7 +58,7 @@
    "name": "Alvarezsaurus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -67,8 +67,8 @@
     "title": "Alvarezsaurus calvoi.jpg",
     "url": "https://commons.wikimedia.org/w/index.php?curid=7638853"
    },
-   "sha": "f91270592aefa6e27d0f0c5b90b44f7d2f230d7b7942580cbdd3a04d7c066040",
-   "tsha": "3ce0de7199e857fdd2ab0796745e9bb9a53e54c45bd6e69413072b2a9a9bde5a"
+   "sha": "c494a83735ffa5eb1dde1fa8f39d2bf2195246820fb53809c78c969263117f80",
+   "tsha": "3700ca39cccfda2ce740c86ae2219a6711ea895d62230aac59870b55399f6431"
   },
   {
    "id": "anzu",
@@ -93,7 +93,7 @@
    "name": "Aorun",
    "tier": "paid",
    "w": 1374,
-   "h": 1145,
+   "h": 1081,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -103,15 +103,15 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=148100054",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "8ee024d5b2352344c143831fe1950f1aba480a8f272b28dea505200a64a2f2f1",
-   "tsha": "acdc0b14c8c80f8858bf82d758001fc5fb777c6f39d3f749271bd9c6cc92fe87"
+   "sha": "ce41c3cf3e85c5869de8b1ac241027a52922dd7e3f1925802428cbbac2c7ec60",
+   "tsha": "78eddb051b472a3c0c9687364cc2203bc036158849f95ce7df7342659e08796f"
   },
   {
    "id": "archaeornithomimus",
    "name": "Archaeornithomimus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -121,14 +121,14 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=77420428",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "5d41bd4bf8f4d573613382cfcfb3147b00aa623e47b5e69007c32883efbfb7e4",
-   "tsha": "b276d7280ed321855eee67aaadce536b8edddc6fbd8fb68e3656546c71dc5a83"
+   "sha": "e47836ec38fcdcc70b51142b7db8c16e3b194fb18214cfdd47504f96aaa43256",
+   "tsha": "686cf7d5c7853b968a080bea431c2495c238d441bd8490f8f699864d263ff39d"
   },
   {
    "id": "asfaltovenator",
    "name": "Asfaltovenator vialidadi",
    "tier": "paid",
-   "w": 1606,
+   "w": 1468,
    "h": 979,
    "added": "2026-10-17",
    "credit": {
@@ -139,15 +139,15 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=86362596",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "07f4badbcbe971f72eceb87fa18eee776aa25c0af82be9eac09fd6a8ecc0b425",
-   "tsha": "a86b32212ede5d58425472117ca37d6c40a86b8099817be8609f33477dbc5e97"
+   "sha": "b4439baf7d8cc374d4b2f87f307cbf6b6c31f017b5d9e281b81fb08543e85d82",
+   "tsha": "33d96da6a29b2b2f29cd69dbaa0df3299256751d824b41fc25f177ed390b1af8"
   },
   {
    "id": "atrociraptor",
    "name": "Atrociraptor",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -157,8 +157,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=29118538",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "8ad94d2b5d2eacede37621163b627ef53ce358d718b826e21b56413c35cffeed",
-   "tsha": "cd8b78477768a8aad3631c913722588c10f15c41963e2f0b5b776edb2e522b53"
+   "sha": "412871ff0a195611dfebf503bee71f50fa07c1e6727c836ad0e6eb243bde4077",
+   "tsha": "6157cf469f434f5fec21345497a8af85c3b13dc46791f006572eae6c9f9cc2c4"
   },
   {
    "id": "aurornis",
@@ -183,7 +183,7 @@
    "name": "Bambiraptor",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -193,14 +193,14 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=78923839",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "c4c9f1f1133b48aa5c67fd69620cf27cfed8e686be9dd05b409b190ee0a04d1c",
-   "tsha": "821994af05b31fe9ddf38dfc061b16382f214ed0c66327394d41068b4c262aef"
+   "sha": "37d588b68ea18948e64dc4e865dec27a9ce1b30395619c791b1757e6df3d56da",
+   "tsha": "774320f2ae37ed7853189f1e803607ab570a9dd241df84dc9871757c69c40844"
   },
   {
    "id": "garudimimus",
    "name": "Garudimimus",
    "tier": "paid",
-   "w": 1672,
+   "w": 1411,
    "h": 941,
    "added": "2026-10-17",
    "credit": {
@@ -210,15 +210,15 @@
     "title": "Garudimimus Restoration.png",
     "url": "https://commons.wikimedia.org/w/index.php?curid=93777894"
    },
-   "sha": "a884c72467c5739a8782c59bc5f5b281445d87c9a5dd38512b5ee2f8deac50c1",
-   "tsha": "22226861faf2b59f558e8a3b401b627e813d6ac8f557deeda230bcf05488a274"
+   "sha": "8fee33196d09d9a58817b51a1ab9461596d81f90eabf5b0ade703122f56218e8",
+   "tsha": "8f43de619918631f4cf1dda6b7f833925b806f4e790eab6644fb9f4f30baabd1"
   },
   {
    "id": "eosinopteryx",
    "name": "Eosinopteryx",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -228,8 +228,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=26637986",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "fb26fcf6c6aebf03167dcd4ac7798bab0aaa6166c7618ae9de8812d80682371c",
-   "tsha": "39d09ae3415cb15b0c34c1d3485dc388dec9aba86896df4a4cb16f4ba186348b"
+   "sha": "d57378f1e6742b2d9c5c03bf62a7dc0d8f683bb6b31f207bb6a7ddd09dcce23c",
+   "tsha": "bb6d41ba7fa17299bd14df15842836214ccf4268fb1ded465400cda46d635aed"
   },
   {
    "id": "bonapartenykus",
@@ -306,7 +306,7 @@
    "id": "daurlong",
    "name": "Daurlong",
    "tier": "paid",
-   "w": 1619,
+   "w": 1456,
    "h": 971,
    "added": "2026-10-17",
    "credit": {
@@ -317,15 +317,15 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=125769787",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "82eece55404820a5522a93f51506bdd7ac40bf44511c157027c5eac8c57c059a",
-   "tsha": "ffd327ac78779dcfd51ec6fdc72f2d17730f27098e00733ce32d46d400998837"
+   "sha": "9cf4e106667f0c812bba92a7a4247a0da984d83adee12a69d2a205321f1d224f",
+   "tsha": "3cfd531edc24cda741a5b7ba420e11f3d2e5059393368cd83a98226e4668c0fc"
   },
   {
    "id": "deinocheirus",
    "name": "Deinocheirus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -335,14 +335,14 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=5163874",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "d946017af34d6a8632bd8f5b0bceb8046ba1caf2d3b62264041f737d356d8e7d",
-   "tsha": "331a8ff7bbb4519040c314bc9ac69da082c33293c70c2708dfc2bbbfad65e503"
+   "sha": "cc16853a3f072ed883143fefc9eb9c37b9292a1828e40a80592be15e38f9c5a7",
+   "tsha": "98b0548aca2109256e60c05aa3ae6fc8b8039bb864a300b81951bd15fcdaaa4b"
   },
   {
    "id": "dineobellator",
    "name": "Dineobellator",
    "tier": "paid",
-   "w": 1664,
+   "w": 1417,
    "h": 945,
    "added": "2026-10-17",
    "credit": {
@@ -352,14 +352,14 @@
     "title": "Dineobellator Sergey Krasovskiy.png",
     "url": "https://commons.wikimedia.org/w/index.php?curid=88640982"
    },
-   "sha": "38e917878495e45bb81cfead72ead8acfe50d9f73d0ebfcb2888424183677b75",
-   "tsha": "7c8ee2d98b61655ffb7dd1be960cec6ba728826c36fb96139fc8a385393b1cac"
+   "sha": "749f3b7755c60d95faa8891e9f227447dbd3a24293d875b2841a5a27d37167a0",
+   "tsha": "813ea1411b192850518911596114c2b1e05f9d8119b28d946fb0ec43549ec528"
   },
   {
    "id": "adasaurus",
    "name": "Adasaurus",
    "tier": "paid",
-   "w": 1672,
+   "w": 1411,
    "h": 941,
    "added": "2026-10-17",
    "credit": {
@@ -370,15 +370,15 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=88946851",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "2d506d8f05e9bc25ae7c6b680f000705e9c77c9577809987adb92461ba80c2bd",
-   "tsha": "63dcd85646da99e6882ba0143fb53424a46857c553d27c730cab2c114e6a32ee"
+   "sha": "25ee2e74b9b08afcee8ba05273104b2f58c7aec3133145814e03adb3feb16df9",
+   "tsha": "f400113e4d8b18856bea818be7cd695bff2b925d05e02533d812f94379e8b602"
   },
   {
    "id": "haplocheirus",
    "name": "Haplocheirus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -387,15 +387,15 @@
     "title": "Haplocherius sollers TIV 400.JPG",
     "url": "https://commons.wikimedia.org/w/index.php?curid=9958089"
    },
-   "sha": "f0638344985112a8f137fc7c1355555d6f8dea257dbe92990bc85bed1f17ac3e",
-   "tsha": "c77eb8c742341c1fceb8a40b1382ed48bc55b0d710f44965985526c00dc55b29"
+   "sha": "6255254d0bc692071715740e0ed98f3d9afae50da6b967e63ab7ada4c722760a",
+   "tsha": "351e0d350ad111b39837edd0cdf1a92a92b46a3b10e48d82bff68c386a00eb12"
   },
   {
    "id": "harpymimus",
    "name": "Harpymimus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -404,15 +404,15 @@
     "title": "Harpymimus steveoc.jpg",
     "url": "https://commons.wikimedia.org/w/index.php?curid=4259558"
    },
-   "sha": "c573779e16d9d34ffcbfae7da307099e3c44f56ea1c98ac6e849c146026d8086",
-   "tsha": "f20dcdb1b3c4685a1dfb6eaa7d18a3bb6a0ac641f9b1a9ad3ed9f897fdf115ee"
+   "sha": "5e0b9be904963f4eb90ab63b030d84df6dab7d806ec99ab515545904b181daa3",
+   "tsha": "9b2f62a7d19e627fc4ea38a6272463b06f26b872cd0bc06676a6ef2afaf852e5"
   },
   {
    "id": "hulsanpes",
    "name": "Hulsanpes",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -422,14 +422,14 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=108382823",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "9c35d30c6ea8a21720a9e6de084ae16b238e2bed97ab135d614f0975a63df4f6",
-   "tsha": "5eb54ee2c8585e7fa60ebf905fb15a1dc0c97718581e64d6fde144dd857440ef"
+   "sha": "d56672cbc1b29832a517969f44418d72c8258465ba652593081ba760d2b31e49",
+   "tsha": "021cdf6ebbe66e9330e08114120dc3970800ed72400c1cbcfdaabd20139acd57"
   },
   {
    "id": "jianchangosaurus",
    "name": "Jianchangosaurus",
    "tier": "paid",
-   "w": 1648,
+   "w": 1431,
    "h": 954,
    "added": "2026-10-17",
    "credit": {
@@ -439,15 +439,15 @@
     "title": "Jianchangosaurus Restoration.png",
     "url": "https://commons.wikimedia.org/w/index.php?curid=96189752"
    },
-   "sha": "d83f48356828def5930b486b8b8c9bd384b9e1278022a1bfff549ff73a0c3397",
-   "tsha": "ba9f2c360e0cc7c86957fefac25553c7b12c477340f19663cf905fa12874cab5"
+   "sha": "0ae3d7d2236d269e6a6b38544be322085441da0a063abd222daeeb892ce0d1eb",
+   "tsha": "1724473c3d3af71415db0bba4003ffe3eb731f7925bc24542ccf0f1eb85180c4"
   },
   {
    "id": "jiangxisaurus",
    "name": "Jiangxisaurus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -457,8 +457,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=28197741",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "e22eff3d2d90fa3699e6b2bb6924425735ca75c0432a3388a810c24bfde594e0",
-   "tsha": "fb0e99900f6ec75b22ff7108400379510d8ff7a54ac32a822a9b49d07b7b0f98"
+   "sha": "e214c70f8fb3a9d4291f1511df6ba99bd47a829e6a89b0dd4b4a022fc7aa6968",
+   "tsha": "698e8e8917099a300d6fce738d2894e5720ac3785d561c4ed028a731f91e22ff"
   },
   {
    "id": "khaan",
@@ -500,7 +500,7 @@
    "name": "Machairasaurus",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -510,8 +510,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=29223968",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "9006b1a9d2c0d541a7fa1cb0a9dfa9fc539b890030a1a847ef2b0ea3b939ab84",
-   "tsha": "7432d37a85bf71fddc7ecefa7a1f909bf3babf23c176dde0d9f47158ffd24126"
+   "sha": "e4186201e75bfacf38b159fe21412a7229e2d95ae94891ca418bfd93f5e92523",
+   "tsha": "880ef6c96e1b6e36827affc16391e91feaaa8e47de5881572dd7a43427b6e220"
   },
   {
    "id": "maip",
@@ -554,7 +554,7 @@
    "name": "Meilong",
    "tier": "paid",
    "w": 1254,
-   "h": 1254,
+   "h": 987,
    "added": "2026-10-17",
    "credit": {
     "kind": "illustration",
@@ -564,8 +564,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=9570349",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "d342a526c4a52fac5e179dc0fcf8c20eedb886d31c81f21c0565b3bc37ae340f",
-   "tsha": "5a21f2e6c22c0a6fff95e104afa9aff3d5817f0ccb11540d8a9a08c9be180565"
+   "sha": "69b26c6d3c806bca04dd217bd01dbd07356ee8f60434b2ff380de6d72be0ec38",
+   "tsha": "430529faea20c341e81565baca70ef0d18201b374c73b34863400a70cabfd34a"
   },
   {
    "id": "nankangia",
@@ -606,7 +606,7 @@
    "id": "vectiraptor_2",
    "name": "Vectiraptor duo",
    "tier": "paid",
-   "w": 1691,
+   "w": 1395,
    "h": 930,
    "added": "2026-10-18",
    "credit": {
@@ -642,8 +642,8 @@
     "ms": "Dua ekor Vectiraptor",
     "fil": "Dalawang Vectiraptor"
    },
-   "sha": "dd423e917a9f0bed9be1b59ecf0246f6f518511e1197e524c9a3ed34febae6cf",
-   "tsha": "626abd743ecb1c2bbbf793dfa7386cb4477ff0094f19e65c634e4032e2f34360"
+   "sha": "efb487f2cd6858ca90e63196e6b7f0224b4f4baa5969781d3d8496cad6f1e0a7",
+   "tsha": "096b3612e97185362959c52933874c17c189a1487b12b1bd345a79a45ef1b2ea"
   },
   {
    "id": "velocisaurus",
@@ -1075,7 +1075,7 @@
    "id": "sinusonasus_2",
    "name": "Sinusonasus",
    "tier": "paid",
-   "w": 1691,
+   "w": 1395,
    "h": 930,
    "added": "2026-10-18",
    "credit": {
@@ -1086,8 +1086,8 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=98587964",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "35312fae008828879ad897decedd5a35a3706add195c26559e39767e81b2523d",
-   "tsha": "19bcde62f628f4b9b642afaf08ef9f9e2886fff55dd1af34cf62a11013710058"
+   "sha": "a7b09ce8ddb7d250628e7dc0af6cf2e2689bb0a80e5b00652a249864dc2dab9d",
+   "tsha": "1cbbdacb566a8ad3d8d159ad296b9023660a282d88304e773f7e8938a47b62d9"
   },
   {
    "id": "tanycolagreus",
@@ -1215,7 +1215,7 @@
    "id": "trinisaura",
    "name": "Trinisaura",
    "tier": "paid",
-   "w": 1691,
+   "w": 1395,
    "h": 930,
    "added": "2026-10-18",
    "credit": {
@@ -1226,14 +1226,14 @@
     "url": "https://commons.wikimedia.org/w/index.php?curid=39633269",
     "derived": "CC BY-SA 4.0"
    },
-   "sha": "37ffecc68d004d44d374b8314737c4e4a9714ebeb7c803bf5a0c8f7eaafc5ecc",
-   "tsha": "8f2f48b5362005ad620400b371a866f2c8aca758fb5a5fa3b014d183183ae40e"
+   "sha": "5933b9993af586a9e56ca696acc76f2c179b7517994b91ec3810c611f211a45e",
+   "tsha": "5dfc72bddec6f0002559b1e2664fd1a6be6edf05cc7ef89f368d6b61d64dc665"
   },
   {
    "id": "trinisaura_2",
    "name": "Trinisaura fight",
    "tier": "paid",
-   "w": 1691,
+   "w": 1395,
    "h": 930,
    "added": "2026-10-18",
    "credit": {
@@ -1270,8 +1270,8 @@
     "ms": "Trinisaura bertarung",
     "fil": "Labanan ng Trinisaura"
    },
-   "sha": "3f2fffcaf1ad75c84ee4f187ed12167147c59a848b37ac4ec89f7c33c194913c",
-   "tsha": "7f8083bbf3cb627db9a342cead622160bbc4eaccfb8601226ed5e048b5a5ae8d"
+   "sha": "158fbfac930a86f087970ba0a7e8353216e86b0c3339459cd8f17c33a7a08ff1",
+   "tsha": "be89db4df7e48e115b948fff14adaba90da4f004f17cad3b9695b4c843da103c"
   },
   {
    "id": "nqwebasaurus",
@@ -1357,7 +1357,7 @@
    "id": "rinchenia",
    "name": "Rinchenia",
    "tier": "paid",
-   "w": 1690,
+   "w": 1396,
    "h": 931,
    "added": "2026-10-18",
    "credit": {
@@ -1367,8 +1367,8 @@
     "title": "Rinchenia Restoration.png",
     "url": "https://commons.wikimedia.org/w/index.php?curid=122892157"
    },
-   "sha": "c7a01383fb0a41560181852c6d2a06da16ba1ed3d7189b51afb8fcb7ef2bd6be",
-   "tsha": "55743550871fbe218ef18bf7cf8ecf9fdfd661ea473ef53a58aac0ea9a03c498"
+   "sha": "b90af8a970f1429e3e327cfc35de4bc5afb59229293f2912e8aec3c217c85ef7",
+   "tsha": "5486b0757476a64abc913901d08c4758853217fd7708e48a1c10cffddb81c6c4"
   },
   {
    "id": "talos",
