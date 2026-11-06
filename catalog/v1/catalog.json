@@ -1403,6 +1403,348 @@
    },
    "sha": "016135cebad780313f3da264998df32726761347b4786942077714ae771de001",
    "tsha": "81b36d44dde9154a364e268b4e3f1770a18f01f0613f263c9fd807ec20a3f4f4"
+  },
+  {
+   "id": "albertonykus",
+   "name": "Albertonykus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Connor Ashbridge",
+    "license": "CC BY-SA 4.0",
+    "title": "Albertonykus borealis life reconstruction.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=129999696",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "c742e8df8aa4c7cf3e9e8e604c3df9d2aefc70043fbb1bb8da0bb3ea11ea4677",
+   "tsha": "2a6f4e7be3b23863f150cbacc584a9e7e0d6fc721d81dce4748bec5c7e715b59"
+  },
+  {
+   "id": "albinykus",
+   "name": "Albinykus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Levi Martinez-Reza",
+    "license": "CC BY-SA 3.0",
+    "title": "Albinykus LM.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=85843674",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "a7e1d67091e269dc49a3b0a003a3edd3993974b6d3769cec8c34afc9e268d44e",
+   "tsha": "06fece11c1780a638099aefef84e6f3682b740bfa1695c7c92f6d8a01115858a"
+  },
+  {
+   "id": "albinykus_2",
+   "name": "Albinykus with young",
+   "tier": "paid",
+   "w": 1535,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Levi Martinez-Reza",
+    "license": "CC BY-SA 3.0",
+    "title": "Albinykus LM.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=85843674",
+    "derived": "CC BY-SA 4.0"
+   },
+   "names": {
+    "en": "Albinykus with young",
+    "pt": "Albinykus filhotes",
+    "es": "Albinykus con sus crías",
+    "fr": "Albinykus et ses petits",
+    "de": "Albinykus mit Jungtieren",
+    "it": "Albinykus con i piccoli",
+    "nl": "Albinykus met jongen",
+    "pl": "Albinykus z młodymi",
+    "ru": "Albinykus с детёнышами",
+    "uk": "Albinykus з дитинчатами",
+    "tr": "Albinykus yavrularıyla",
+    "id": "Albinykus dan anak-anaknya",
+    "vi": "Albinykus và đàn con",
+    "ja": "Albinykus の親子",
+    "ko": "Albinykus와 새끼들",
+    "zh": "Albinykus 与幼崽",
+    "zh_Hant": "Albinykus 與幼崽",
+    "ar": "Albinykus مع صغاره",
+    "hi": "Albinykus और उसके बच्चे",
+    "th": "Albinykus กับลูก ๆ",
+    "bn": "Albinykus ও তার ছানারা",
+    "ur": "Albinykus اپنے بچوں کے ساتھ",
+    "ms": "Albinykus bersama anak-anaknya",
+    "fil": "Albinykus kasama ang mga anak"
+   },
+   "sha": "a8c2fda252b67873622d5fc4e39fed76f2a641d56292e1ac696ba9114ba65747",
+   "tsha": "361ae84bb804407c0f77e7336e09092e70f21436918436704bf1e26f2c3195b7"
+  },
+  {
+   "id": "alnashetri",
+   "name": "Alnashetri",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Levi bernardo",
+    "license": "CC BY-SA 3.0",
+    "title": "Alnashetri LM.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=85875231",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "e79de20d6c292b10b1b68b600cc9dee4ed53d3dbf6a688efb0d0d49992654388",
+   "tsha": "71895910f0fce4b32b7be3f102c0bcdfb4d9bee52c319f5b0b7d5d3056534245"
+  },
+  {
+   "id": "alpkarakush",
+   "name": "Alpkarakush",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Ddinodan",
+    "license": "CC BY 4.0",
+    "title": "Alpkarakush kyrgyzicus.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=151655404"
+   },
+   "sha": "768f95aae71951c31d478447a32ff902baf027878f51a56c8f0d08751b9001ad",
+   "tsha": "a032b4982c69a308462c5536a2d6a8eec48cbd8ea703ac01018d0f3ad28022e7"
+  },
+  {
+   "id": "aniksosaurus",
+   "name": "Aniksosaurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Atlantis536",
+    "license": "CC0",
+    "title": "Aniksosaurus reconstruction.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=175566224"
+   },
+   "sha": "c7371d7952e032deb64b10468139f17e24bc15b879124064a62f5c1030e94886",
+   "tsha": "a3da0638e6b08866b5ffc3e577a5d864d96b8de2b0cfa5cfd21eddfc9856b84d"
+  },
+  {
+   "id": "aristosuchus",
+   "name": "Aristosuchus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "FunkMonk",
+    "license": "CC BY 3.0",
+    "title": "Aristosuchus restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=34486963"
+   },
+   "sha": "1772211807e437272765d5e8c152b75271c509053e7fed16d30befb1ef5414fb",
+   "tsha": "417760acd08475bdd5b6dd2b34d562e782ba8af6eece24152852aeacad4e4923"
+  },
+  {
+   "id": "bagaraatan",
+   "name": "Bagaraatan",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Halszka Osmólska",
+    "license": "CC BY 2.0",
+    "title": "Bagaraatan outline.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=24983781"
+   },
+   "sha": "be1053663d942ff3c33ad63a233864b9a1dec1b08f1f6aba1a65ae23025820ae",
+   "tsha": "628ac8277b1abb0833ca7d7a362344dba51b2b123661eb3e26d71cedea686a27"
+  },
+  {
+   "id": "berberosaurus",
+   "name": "Berberosaurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Mario Lanzas",
+    "license": "CC BY-SA 4.0",
+    "title": "Berberosaurus life restoration 2019.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=85393798",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "60bc5d27eed43c29f4af897f60d7bf5f513f260fb2015c4c0cef62fc21eb3c2c",
+   "tsha": "5d226f8e7d987f6196daf905b7e36b76a8ebc74dffb396472445e75586eb3e67"
+  },
+  {
+   "id": "betasuchus",
+   "name": "Betasuchus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Jonagold2000",
+    "license": "CC BY-SA 4.0",
+    "title": "Betasuchus by jonagold2000-d9vf4gw.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=50128421",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "bd47cc48348bcec10b8cd768beeaaf87c52e6bb21dfd5321994f50d35315fd95",
+   "tsha": "d9219dddefe12c371064d174e04c8b1788abb00dac931f17869a813fad53bd93"
+  },
+  {
+   "id": "chuandongocoelurus",
+   "name": "Chuandongocoelurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Paleocolour",
+    "license": "CC BY-SA 4.0",
+    "title": "Chuandongocoelurus life restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=73901292",
+    "derived": "CC BY-SA 4.0"
+   },
+   "sha": "2fa60561fe1792ce29985622deb30266a4afc7d2ad701e1a748db24b9aeb2ca7",
+   "tsha": "8253b07903bd7e52d4efea21ec18748bf4351091ab392d06b356a6c1222537f5"
+  },
+  {
+   "id": "chuandongocoelurus_2",
+   "name": "Chuandongocoelurus running",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Paleocolour",
+    "license": "CC BY-SA 4.0",
+    "title": "Chuandongocoelurus life restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=73901292",
+    "derived": "CC BY-SA 4.0"
+   },
+   "names": {
+    "en": "Chuandongocoelurus running",
+    "pt": "Chuandongocoelurus correndo",
+    "es": "Chuandongocoelurus corriendo",
+    "fr": "Chuandongocoelurus en pleine course",
+    "de": "Chuandongocoelurus im Lauf",
+    "it": "Chuandongocoelurus in corsa",
+    "nl": "Chuandongocoelurus aan het rennen",
+    "pl": "Chuandongocoelurus w biegu",
+    "ru": "Chuandongocoelurus на бегу",
+    "uk": "Chuandongocoelurus на бігу",
+    "tr": "Chuandongocoelurus koşarken",
+    "id": "Chuandongocoelurus berlari",
+    "vi": "Chuandongocoelurus đang chạy",
+    "ja": "Chuandongocoelurus の疾走",
+    "ko": "Chuandongocoelurus의 질주",
+    "zh": "Chuandongocoelurus 奔跑",
+    "zh_Hant": "Chuandongocoelurus 奔跑",
+    "ar": "Chuandongocoelurus يركض",
+    "hi": "Chuandongocoelurus दौड़ते हुए",
+    "th": "Chuandongocoelurus กำลังวิ่ง",
+    "bn": "দৌড়ন্ত Chuandongocoelurus",
+    "ur": "دوڑتا Chuandongocoelurus",
+    "ms": "Chuandongocoelurus sedang berlari",
+    "fil": "Chuandongocoelurus na tumatakbo"
+   },
+   "sha": "cba5b78eabb6eb4452fcd0e2add8308862d1c1654545873336c63daa56de0059",
+   "tsha": "a34770e983bb8b01088c5ee40a229e256f2ecfabbc416ae80eb07712eda2f0f2"
+  },
+  {
+   "id": "epidendrosaurus",
+   "name": "Epidendrosaurus",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Matthew Martyniuk (Dinoguy2)",
+    "license": "CC BY 3.0",
+    "title": "Epidendrosauruswiki1.png",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=3180539"
+   },
+   "sha": "43e0624dddb2629df143a5c1eb0182beda77fb1fb84ab4f3ac88ff9fd4f03bc8",
+   "tsha": "5d47f2580891260e531442865baca0d105bbc01bfdf1234f01bc6b959983d4f5"
+  },
+  {
+   "id": "epidexipteryx",
+   "name": "Epidexipteryx family",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Nobu Tamura",
+    "license": "CC BY-SA 3.0",
+    "title": "Epidexipteryx NT.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=19460043",
+    "derived": "CC BY-SA 4.0"
+   },
+   "names": {
+    "en": "Epidexipteryx family",
+    "pt": "Epidexipteryx família",
+    "es": "Epidexipteryx en familia",
+    "fr": "Epidexipteryx en famille",
+    "de": "Epidexipteryx-Familie",
+    "it": "Epidexipteryx in famiglia",
+    "nl": "Epidexipteryx-familie",
+    "pl": "Epidexipteryx – rodzina",
+    "ru": "Epidexipteryx — семья",
+    "uk": "Epidexipteryx — родина",
+    "tr": "Epidexipteryx ailesi",
+    "id": "Epidexipteryx sekeluarga",
+    "vi": "Gia đình Epidexipteryx",
+    "ja": "Epidexipteryx の家族",
+    "ko": "Epidexipteryx 가족",
+    "zh": "Epidexipteryx 一家",
+    "zh_Hant": "Epidexipteryx 一家",
+    "ar": "عائلة Epidexipteryx",
+    "hi": "Epidexipteryx का परिवार",
+    "th": "ครอบครัว Epidexipteryx",
+    "bn": "Epidexipteryx-এর পরিবার",
+    "ur": "Epidexipteryx کا خاندان",
+    "ms": "Keluarga Epidexipteryx",
+    "fil": "Pamilya ng Epidexipteryx"
+   },
+   "sha": "b190dc8a3e6f151ed36c27b287ad95788605c0d328eec663ce7c1c66f8d5c612",
+   "tsha": "a3240951c5f09c7f2342c728d5ab75e62964f6a93a9e518605b6544fab1ef328"
+  },
+  {
+   "id": "jianianhualong",
+   "name": "Jianianhualong",
+   "tier": "paid",
+   "w": 1536,
+   "h": 1024,
+   "added": "2026-11-06",
+   "credit": {
+    "kind": "illustration",
+    "author": "Xing Xu, Philip Currie, Michael Pittman, Lida Xing, Qingjin Meng, Junchang Lü, Dongyu Hu & Congyu Yu",
+    "license": "CC BY 4.0",
+    "title": "Jianianhualong Restoration.jpg",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=58449130"
+   },
+   "sha": "6c249221ab8ae45830893b5b8b138c9533206cccfcec5a8e1b55579db9938431",
+   "tsha": "1c36f6841e7c757781aca88a2036ade5a0c4ce41976bc274430b3d714df5630a"
   }
  ],
  "tiers": {
